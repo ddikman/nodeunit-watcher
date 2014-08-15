@@ -4,11 +4,11 @@
     "description": "nodeunit wrapper for continuous testing.",
     "preferGlobal": "true",
     "bin": { "nodeunit-watcher": "./bin/nodeunit-watcher" },
-    "author": "Alex Cline",
+    "author": "Alex Cline extended by David Dikman",
     "keywords": ["nodeunit", "watch", "continuous", "testing"],
     "repository" : {
         "type": "git",
-        "url": "https://github.com/AlexCline/nodeunit-watcher.git"
+        "url": "https://github.com/ddikman/nodeunit-watcher.git"
     },
     "dependencies": {
         "nodeunit": "0.7.4"
